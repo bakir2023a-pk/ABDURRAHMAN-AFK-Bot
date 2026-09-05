@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AbdurRahman",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "AbdurRahman1770",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Minecraftbdsmp.aternos.me:",
+    "port": 55876,
     "version": "1.21.1"
   },
   "position": {
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1507347618026491924/gewIOJu7VZLwooHP4KU7e4m8zAzaKpYTp49c5dMoUBGr-pH2a0LK-3n3KTWbH024MCxv",
     "events": {
       "connect": true,
       "disconnect": true,
